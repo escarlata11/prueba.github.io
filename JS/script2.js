@@ -1,1 +1,1 @@
-document.write ("la oscuridad no puede ser remplazada con oscuridad solo la luz puede")
+document.write ("la oscuridad no puede ser remplazada con oscuridad solo la luz puede");
