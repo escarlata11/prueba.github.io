@@ -1,1 +1,0 @@
-alert (`LUNES CASI DOMINGO`)
